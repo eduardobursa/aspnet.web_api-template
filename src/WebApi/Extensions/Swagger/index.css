@@ -1,0 +1,37 @@
+﻿.info_title {
+	color: #4b4b4b !important;
+}
+
+#header {
+	background-color: #008B6A !important;
+}
+
+#logo {
+}
+
+	#logo img.logo__img {
+		position: relative !important;
+		top: -4px !important;
+	}
+
+.swagger-section #input_login, .swagger-section #input_logout {
+	display: block;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 6px 8px;
+	font-size: 0.9em;
+	color: white;
+	background-color: #00ab99;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-o-border-radius: 4px;
+	-ms-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.swagger-section #user {
+	font-weight: bold;
+	font-size: 0.9em;
+	color: white;
+}
