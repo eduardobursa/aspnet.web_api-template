@@ -1,6 +1,9 @@
+# aspnet web api template
+
+[![Build status](https://ci.appveyor.com/api/projects/status/2kd6y98veiki3fyq/branch/master?svg=true)](https://ci.appveyor.com/project/eduardobursa/aspnet-web-api-template/branch/master)
 [![License](http://img.shields.io/:license-MIT-blue.svg)](https://raw.githubusercontent.com/eduardobursa/aspnet.web_api-template/master/LICENSE)
 
-# aspnet web api template
+## What?
 This is a project template to bootstrap a web api application with common configuration and features.
 
 What is included?
