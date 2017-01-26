@@ -1,3 +1,5 @@
+[![License](http://img.shields.io/:license-MIT-blue.svg)](https://raw.githubusercontent.com/eduardobursa/aspnet.web_api-template/master/LICENSE)
+
 # aspnet web api template
 This is a project template to bootstrap a web api application with common configuration and features.
 
