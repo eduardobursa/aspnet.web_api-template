@@ -1,6 +1,6 @@
-﻿using System.Web;
+using System.Web;
 
-namespace Template.WebApi
+namespace EduardoBursa.Templates.WebApi
 {
 	/// <summary>
 	/// Implents an http web app.

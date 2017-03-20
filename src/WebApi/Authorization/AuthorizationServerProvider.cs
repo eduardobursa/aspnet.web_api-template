@@ -1,11 +1,11 @@
-﻿using Microsoft.Owin.Security;
+using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.OAuth;
 using System.Security.Claims;
 using System.Security.Principal;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace Template.WebApi.Authorization
+namespace EduardoBursa.Templates.WebApi.Authorization
 {
 	/// <summary>
 	/// Implements an OAuthAuthorizationServerProvider.

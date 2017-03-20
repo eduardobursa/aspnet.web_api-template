@@ -1,6 +1,6 @@
-﻿using System.Web.Http.Filters;
+using System.Web.Http.Filters;
 
-namespace Template.WebApi.Filters
+namespace EduardoBursa.Templates.WebApi.Filters
 {
 	/// <summary>
 	/// Defines an exception filter for logging errors on elmah.

@@ -1,10 +1,10 @@
-﻿using Microsoft.Owin;
+using Microsoft.Owin;
 using Microsoft.Owin.Security.OAuth;
 using Owin;
-using Template.WebApi.Authorization;
+using EduardoBursa.Templates.WebApi.Authorization;
 using System;
 
-namespace Template.WebApi
+namespace EduardoBursa.Templates.WebApi
 {
 	/// <summary>
 	/// Defines an entry point for the oauth configuration.

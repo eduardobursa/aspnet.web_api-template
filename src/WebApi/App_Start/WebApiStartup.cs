@@ -1,9 +1,9 @@
-﻿using Newtonsoft.Json.Serialization;
+using Newtonsoft.Json.Serialization;
 using System.Web.Http;
 using System.Web.Http.Cors;
-using Template.WebApi.Filters;
+using EduardoBursa.Templates.WebApi.Filters;
 
-namespace Template.WebApi
+namespace EduardoBursa.Templates.WebApi
 {
 	/// <summary>
 	/// Defines an entry point for web api configuration.

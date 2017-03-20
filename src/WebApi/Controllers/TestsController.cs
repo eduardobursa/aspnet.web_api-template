@@ -1,6 +1,6 @@
-﻿using System.Web.Http;
+using System.Web.Http;
 
-namespace Template.WebApi.Controllers
+namespace EduardoBursa.Templates.WebApi.Controllers
 {
 	/// <summary>
 	/// Defines a controller for tests.

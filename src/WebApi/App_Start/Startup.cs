@@ -1,11 +1,11 @@
-﻿using Microsoft.Owin;
+using Microsoft.Owin;
 using Microsoft.Owin.Cors;
 using Owin;
 using System.Web.Http;
 
-[assembly: OwinStartup(typeof(Template.WebApi.Startup))]
+[assembly: OwinStartup(typeof(EduardoBursa.Templates.WebApi.Startup))]
 
-namespace Template.WebApi
+namespace EduardoBursa.Templates.WebApi
 {
 	/// <summary>
 	/// Defines an entry point for the application configuration.

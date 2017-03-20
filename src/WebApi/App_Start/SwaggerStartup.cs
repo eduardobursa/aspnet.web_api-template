@@ -4,7 +4,7 @@ using System.IO;
 using System.Web.Http;
 using System.Xml.Linq;
 
-namespace Template.WebApi
+namespace EduardoBursa.Templates.WebApi
 {
 	/// <summary>
 	/// Defines an entry point for swagger web api configuration.
