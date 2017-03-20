@@ -4,9 +4,9 @@ clone_depth: 1
 
 # restore nuget packages before build
 before_build:
-  - nuget restore .\src\Template.WebApi.sln
+  - nuget restore .\src\EduardoBursa.Templates.WebApi.sln
 
 # build configuration
 build:
-  project: .\src\Template.WebApi.sln
+  project: .\src\EduardoBursa.Templates.WebApi.sln
   verbosity: minimal
