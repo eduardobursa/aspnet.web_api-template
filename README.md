@@ -19,5 +19,5 @@ Althought you can download and use it, I strongly recommend to use [jumpStart](h
 With jumpStart you have just to run the command below changing ***My.Amazing.NewProject*** with an approprieted namespace that suits your project:
 
 ```shell
-jumpstart -tf https://github.com/eduardobursa/aspnet.web_api-template/archive/master.zip -f Result -tn Template.WebApi -n My.Amazing.NewProject.WebApi
+jumpstart -tf https://github.com/eduardobursa/aspnet.web_api-template/archive/master.zip -f Result -tn EduardoBursa.Templates.WebApi -n My.Amazing.NewProject.WebApi
 ```
